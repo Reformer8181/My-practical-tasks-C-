@@ -93,7 +93,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Convert Number to Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Convert Number to Month (Array)", "Task - Convert Number to Month (Array)\Task - Convert Number to Month (Array).csproj", "{228932AB-EE47-4B45-A5F6-251280217416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Find Min Max Numbers in Array", "Task - Find Min Max Numbers in Array\Task - Find Min Max Numbers in Array.csproj", "{81BBBA65-3967-49F7-8301-8C7EB7B053DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Find Min Max Numbers in Array", "Task - Find Min Max Numbers in Array\Task - Find Min Max Numbers in Array.csproj", "{81BBBA65-3967-49F7-8301-8C7EB7B053DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Absolute Sum Array", "Task - Absolute Sum Array\Task - Absolute Sum Array.csproj", "{DD20C841-3C62-402F-B7FB-47F29D87401A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Calculate Exponent", "Task - Calculate Exponent\Task - Calculate Exponent.csproj", "{B73AFC6B-9B3B-401F-B627-9A2B1313C2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Multiply by Length Array", "Task - Multiply by Length Array\Task - Multiply by Length Array.csproj", "{FB978179-9BAE-4DFD-95E6-0CD14B025896}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +291,18 @@ Global
 		{81BBBA65-3967-49F7-8301-8C7EB7B053DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81BBBA65-3967-49F7-8301-8C7EB7B053DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81BBBA65-3967-49F7-8301-8C7EB7B053DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD20C841-3C62-402F-B7FB-47F29D87401A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD20C841-3C62-402F-B7FB-47F29D87401A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD20C841-3C62-402F-B7FB-47F29D87401A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD20C841-3C62-402F-B7FB-47F29D87401A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73AFC6B-9B3B-401F-B627-9A2B1313C2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73AFC6B-9B3B-401F-B627-9A2B1313C2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73AFC6B-9B3B-401F-B627-9A2B1313C2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73AFC6B-9B3B-401F-B627-9A2B1313C2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB978179-9BAE-4DFD-95E6-0CD14B025896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB978179-9BAE-4DFD-95E6-0CD14B025896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB978179-9BAE-4DFD-95E6-0CD14B025896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB978179-9BAE-4DFD-95E6-0CD14B025896}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

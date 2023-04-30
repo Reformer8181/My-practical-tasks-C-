@@ -9,7 +9,7 @@
         {
             try
             {
-                string input = Console.ReadLine();
+                string? input = Console.ReadLine();
 
                 if (input == null)
                 {

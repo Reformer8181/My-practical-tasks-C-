@@ -10,7 +10,7 @@ namespace Task___Sum_Of_Two_Numbers
         static int ReadIntegerFromConsole()
         {
             // Read user input
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
 
             // Declare a variable to store the parsed integer
             int number;
