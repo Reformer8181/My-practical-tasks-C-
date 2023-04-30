@@ -77,15 +77,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Prints User Name", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - User Age", "Task - User Age\Task - User Age.csproj", "{E9758CAB-B57D-4F1B-AE71-EDF12AD6AEAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Area And Perimeter", "Task - Area And Perimeter\Task - Area And Perimeter.csproj", "{D372744C-664C-4DB6-A0C4-F2408C3C31BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Area And Perimeter", "Task - Area And Perimeter\Task - Area And Perimeter.csproj", "{D372744C-664C-4DB6-A0C4-F2408C3C31BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Reverses String", "Task - Reverses String\Task - Reverses String.csproj", "{3FFC23C6-3B36-4DBF-9ECA-B921ED4E25CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Reverses String", "Task - Reverses String\Task - Reverses String.csproj", "{3FFC23C6-3B36-4DBF-9ECA-B921ED4E25CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Day Of Week Switch", "Task - Day Of Week Switch\Task - Day Of Week Switch.csproj", "{85F60036-37BF-47E6-8C51-609C95545AA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Day Of Week Switch", "Task - Day Of Week Switch\Task - Day Of Week Switch.csproj", "{85F60036-37BF-47E6-8C51-609C95545AA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Represent Person With Properties", "Task - Represent Person With Properties\Task - Represent Person With Properties.csproj", "{5326BFCF-72B0-48D3-AFC4-87BEE2F23096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Represent Person With Properties", "Task - Represent Person With Properties\Task - Represent Person With Properties.csproj", "{5326BFCF-72B0-48D3-AFC4-87BEE2F23096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Convert Minutes into Seconds", "Convert Minutes into Seconds\Task - Convert Minutes into Seconds.csproj", "{23025BB0-3983-4156-9886-35D674C0E04C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Convert Minutes into Seconds", "Convert Minutes into Seconds\Task - Convert Minutes into Seconds.csproj", "{23025BB0-3983-4156-9886-35D674C0E04C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Return the Next Number", "Task - Return the Next Number\Task - Return the Next Number.csproj", "{B784A748-BE40-4A86-9DE9-C30F75BF719F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Convert Number to Month", "Task - Convert Number to Month\Task - Convert Number to Month.csproj", "{E3AEE47B-50CE-4BE2-92A6-0F43A40950F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Convert Number to Month (Array)", "Task - Convert Number to Month (Array)\Task - Convert Number to Month (Array).csproj", "{228932AB-EE47-4B45-A5F6-251280217416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Find Min Max Numbers in Array", "Task - Find Min Max Numbers in Array\Task - Find Min Max Numbers in Array.csproj", "{81BBBA65-3967-49F7-8301-8C7EB7B053DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +269,22 @@ Global
 		{23025BB0-3983-4156-9886-35D674C0E04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23025BB0-3983-4156-9886-35D674C0E04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23025BB0-3983-4156-9886-35D674C0E04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B784A748-BE40-4A86-9DE9-C30F75BF719F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B784A748-BE40-4A86-9DE9-C30F75BF719F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B784A748-BE40-4A86-9DE9-C30F75BF719F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B784A748-BE40-4A86-9DE9-C30F75BF719F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3AEE47B-50CE-4BE2-92A6-0F43A40950F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3AEE47B-50CE-4BE2-92A6-0F43A40950F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3AEE47B-50CE-4BE2-92A6-0F43A40950F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3AEE47B-50CE-4BE2-92A6-0F43A40950F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228932AB-EE47-4B45-A5F6-251280217416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228932AB-EE47-4B45-A5F6-251280217416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228932AB-EE47-4B45-A5F6-251280217416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228932AB-EE47-4B45-A5F6-251280217416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BBBA65-3967-49F7-8301-8C7EB7B053DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BBBA65-3967-49F7-8301-8C7EB7B053DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BBBA65-3967-49F7-8301-8C7EB7B053DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BBBA65-3967-49F7-8301-8C7EB7B053DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
