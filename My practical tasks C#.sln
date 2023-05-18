@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting - Cast double to in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting - TryParse", "Casting - TryParse\Casting - TryParse.csproj", "{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Circuit Power Calculator", "Task - Circuit Power Calculator\Task - Circuit Power Calculator.csproj", "{ED94C19D-2E24-4A79-83F3-CBEA7861FF2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED94C19D-2E24-4A79-83F3-CBEA7861FF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED94C19D-2E24-4A79-83F3-CBEA7861FF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED94C19D-2E24-4A79-83F3-CBEA7861FF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED94C19D-2E24-4A79-83F3-CBEA7861FF2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,7 +11,7 @@ namespace Casting___TryParse
     {
         static void Main(string[] args)
         {
-            string value = "df4545548";
+            string value = "4545548";
             int result = 0;
 
             if(int.TryParse(value, out result))
