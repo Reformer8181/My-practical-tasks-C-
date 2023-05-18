@@ -99,7 +99,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Absolute Sum Array",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Calculate Exponent", "Task - Calculate Exponent\Task - Calculate Exponent.csproj", "{B73AFC6B-9B3B-401F-B627-9A2B1313C2D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task - Multiply by Length Array", "Task - Multiply by Length Array\Task - Multiply by Length Array.csproj", "{FB978179-9BAE-4DFD-95E6-0CD14B025896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Multiply by Length Array", "Task - Multiply by Length Array\Task - Multiply by Length Array.csproj", "{FB978179-9BAE-4DFD-95E6-0CD14B025896}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Shuffle The Name", "Task - Shuffle The Name\Task - Shuffle The Name.csproj", "{6F072FD2-430C-4456-A59A-E88934694149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting - Cast double to int. Explicit", "Casting Example 2\Casting - Cast double to int. Explicit.csproj", "{841F7241-C87B-4361-B237-1EAC50B0E049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting - TryParse", "Casting - TryParse\Casting - TryParse.csproj", "{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +309,18 @@ Global
 		{FB978179-9BAE-4DFD-95E6-0CD14B025896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB978179-9BAE-4DFD-95E6-0CD14B025896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB978179-9BAE-4DFD-95E6-0CD14B025896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F072FD2-430C-4456-A59A-E88934694149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F072FD2-430C-4456-A59A-E88934694149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F072FD2-430C-4456-A59A-E88934694149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F072FD2-430C-4456-A59A-E88934694149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841F7241-C87B-4361-B237-1EAC50B0E049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841F7241-C87B-4361-B237-1EAC50B0E049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841F7241-C87B-4361-B237-1EAC50B0E049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841F7241-C87B-4361-B237-1EAC50B0E049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F9C88E-FDCB-4026-B7BB-AA1D446198E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
