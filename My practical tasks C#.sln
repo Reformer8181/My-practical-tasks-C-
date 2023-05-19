@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch Case 2", "Switch Cas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops - Nested For Loops 2", "Loops - Nested For Loops 2\Loops - Nested For Loops 2.csproj", "{E9478CFD-6619-4F3D-BF08-9517E9D6D2EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Guessing Game", "Number Guessing Game\Number Guessing Game.csproj", "{236696A4-F404-4401-8F0A-0710D9989671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -395,6 +397,10 @@ Global
 		{E9478CFD-6619-4F3D-BF08-9517E9D6D2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9478CFD-6619-4F3D-BF08-9517E9D6D2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9478CFD-6619-4F3D-BF08-9517E9D6D2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236696A4-F404-4401-8F0A-0710D9989671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236696A4-F404-4401-8F0A-0710D9989671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236696A4-F404-4401-8F0A-0710D9989671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236696A4-F404-4401-8F0A-0710D9989671}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -417,6 +423,7 @@ Global
 		{FB978179-9BAE-4DFD-95E6-0CD14B025896} = {9E7D6155-1FED-4098-8F89-D3810A6FF42E}
 		{6F072FD2-430C-4456-A59A-E88934694149} = {9E7D6155-1FED-4098-8F89-D3810A6FF42E}
 		{ED94C19D-2E24-4A79-83F3-CBEA7861FF2A} = {9E7D6155-1FED-4098-8F89-D3810A6FF42E}
+		{236696A4-F404-4401-8F0A-0710D9989671} = {9E7D6155-1FED-4098-8F89-D3810A6FF42E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BA79E8D3-239E-4BCF-B9AC-C7B28CA92A58}
