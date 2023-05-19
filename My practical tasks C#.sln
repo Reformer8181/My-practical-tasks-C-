@@ -129,6 +129,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF statements 2", "IF state
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF statements 3", "IF statements 3\IF statements 3.csproj", "{3BABF204-17A0-44B6-936B-999FA581E8ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch Case 2", "Switch Case 2\Switch Case 2.csproj", "{64772E30-A952-4B73-A67A-B4B57447D252}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -383,6 +385,10 @@ Global
 		{3BABF204-17A0-44B6-936B-999FA581E8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BABF204-17A0-44B6-936B-999FA581E8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BABF204-17A0-44B6-936B-999FA581E8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64772E30-A952-4B73-A67A-B4B57447D252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64772E30-A952-4B73-A67A-B4B57447D252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64772E30-A952-4B73-A67A-B4B57447D252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64772E30-A952-4B73-A67A-B4B57447D252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
