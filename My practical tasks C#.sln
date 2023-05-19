@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Numbers", "Random Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hypotenuse Calculator Program", "Hypotenuse Calculator Program\Hypotenuse Calculator Program.csproj", "{A9AEE244-24B0-4D69-BCAD-CD43A3BDF3F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Methods", "String Methods\String Methods.csproj", "{DCF2B750-6228-46C2-8584-6DB83ACF97AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -365,6 +367,10 @@ Global
 		{A9AEE244-24B0-4D69-BCAD-CD43A3BDF3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AEE244-24B0-4D69-BCAD-CD43A3BDF3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AEE244-24B0-4D69-BCAD-CD43A3BDF3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF2B750-6228-46C2-8584-6DB83ACF97AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF2B750-6228-46C2-8584-6DB83ACF97AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF2B750-6228-46C2-8584-6DB83ACF97AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF2B750-6228-46C2-8584-6DB83ACF97AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
