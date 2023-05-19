@@ -10,8 +10,10 @@
 
             string stringValue = doubleFromString.ToString();
             Console.WriteLine($"Data type : {stringValue.GetType()}");
+
             double doubleNumber = 12.345;
             Console.WriteLine($"Integer : {(int)doubleNumber}");
+
             int intNumber = 10;
             long longNumber = intNumber;
         }
