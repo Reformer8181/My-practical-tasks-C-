@@ -111,29 +111,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task - Circuit Power Calcul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Plus Mover", "Simple Plus Mover\Simple Plus Mover.csproj", "{E21EC712-E8BB-475C-B69B-2ED3DEBFC317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables 2", "Variables 2\Variables 2.csproj", "{C878450B-B6AD-474D-A9EE-CF3A69FD5CDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables 2", "Variables 2\Variables 2.csproj", "{C878450B-B6AD-474D-A9EE-CF3A69FD5CDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants", "Constants\Constants.csproj", "{1DDCEAA3-FB44-40CF-9882-BB5EC9D214C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constants", "Constants\Constants.csproj", "{1DDCEAA3-FB44-40CF-9882-BB5EC9D214C8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{9E7D6155-1FED-4098-8F89-D3810A6FF42E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math class", "Math class\Math class.csproj", "{7714CFF7-7228-4885-BB0F-D466985C4179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math class", "Math class\Math class.csproj", "{7714CFF7-7228-4885-BB0F-D466985C4179}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Numbers", "Random Numbers\Random Numbers.csproj", "{32CE60D6-6471-432E-972E-352943B074D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random Numbers", "Random Numbers\Random Numbers.csproj", "{32CE60D6-6471-432E-972E-352943B074D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hypotenuse Calculator Program", "Hypotenuse Calculator Program\Hypotenuse Calculator Program.csproj", "{A9AEE244-24B0-4D69-BCAD-CD43A3BDF3F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hypotenuse Calculator Program", "Hypotenuse Calculator Program\Hypotenuse Calculator Program.csproj", "{A9AEE244-24B0-4D69-BCAD-CD43A3BDF3F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Methods", "String Methods\String Methods.csproj", "{DCF2B750-6228-46C2-8584-6DB83ACF97AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Methods", "String Methods\String Methods.csproj", "{DCF2B750-6228-46C2-8584-6DB83ACF97AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF statements 2", "IF statements 2\IF statements 2.csproj", "{E7FB30EA-FDBA-416C-8E60-90713304D04F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IF statements 2", "IF statements 2\IF statements 2.csproj", "{E7FB30EA-FDBA-416C-8E60-90713304D04F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF statements 3", "IF statements 3\IF statements 3.csproj", "{3BABF204-17A0-44B6-936B-999FA581E8ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IF statements 3", "IF statements 3\IF statements 3.csproj", "{3BABF204-17A0-44B6-936B-999FA581E8ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch Case 2", "Switch Case 2\Switch Case 2.csproj", "{64772E30-A952-4B73-A67A-B4B57447D252}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch Case 2", "Switch Case 2\Switch Case 2.csproj", "{64772E30-A952-4B73-A67A-B4B57447D252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops - Nested For Loops 2", "Loops - Nested For Loops 2\Loops - Nested For Loops 2.csproj", "{E9478CFD-6619-4F3D-BF08-9517E9D6D2EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops - Nested For Loops 2", "Loops - Nested For Loops 2\Loops - Nested For Loops 2.csproj", "{E9478CFD-6619-4F3D-BF08-9517E9D6D2EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Guessing Game", "Number Guessing Game\Number Guessing Game.csproj", "{236696A4-F404-4401-8F0A-0710D9989671}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Guessing Game", "Number Guessing Game\Number Guessing Game.csproj", "{236696A4-F404-4401-8F0A-0710D9989671}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays 2", "Arrays 2\Arrays 2.csproj", "{647418A3-829B-4194-925E-6412A97098E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array - Foreach Loop 2", "Array - Foreach Loop 2\Array - Foreach Loop 2.csproj", "{5EF5EFB4-25E4-4095-905E-009F870F7A00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{CE5BB11D-8646-4ACE-83F1-8B940CDABC5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return Keyword", "Return Keyword\Return Keyword.csproj", "{E23D5BA1-56F2-4853-AB65-BCD47AB0F01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method overloading", "Method overloading\Method overloading.csproj", "{986AF715-E0DB-4A3A-824C-3E6383A707AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params keyword", "Params keyword\Params keyword.csproj", "{D6461599-6FA8-4621-88D9-375D385E0ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception handling", "Exception handling\Exception handling.csproj", "{A8B95734-CB1A-4429-8CDA-D02442A55E1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -401,6 +415,34 @@ Global
 		{236696A4-F404-4401-8F0A-0710D9989671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{236696A4-F404-4401-8F0A-0710D9989671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{236696A4-F404-4401-8F0A-0710D9989671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647418A3-829B-4194-925E-6412A97098E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647418A3-829B-4194-925E-6412A97098E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647418A3-829B-4194-925E-6412A97098E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647418A3-829B-4194-925E-6412A97098E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF5EFB4-25E4-4095-905E-009F870F7A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF5EFB4-25E4-4095-905E-009F870F7A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF5EFB4-25E4-4095-905E-009F870F7A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF5EFB4-25E4-4095-905E-009F870F7A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5BB11D-8646-4ACE-83F1-8B940CDABC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5BB11D-8646-4ACE-83F1-8B940CDABC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5BB11D-8646-4ACE-83F1-8B940CDABC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5BB11D-8646-4ACE-83F1-8B940CDABC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E23D5BA1-56F2-4853-AB65-BCD47AB0F01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23D5BA1-56F2-4853-AB65-BCD47AB0F01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23D5BA1-56F2-4853-AB65-BCD47AB0F01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23D5BA1-56F2-4853-AB65-BCD47AB0F01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986AF715-E0DB-4A3A-824C-3E6383A707AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986AF715-E0DB-4A3A-824C-3E6383A707AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986AF715-E0DB-4A3A-824C-3E6383A707AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986AF715-E0DB-4A3A-824C-3E6383A707AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6461599-6FA8-4621-88D9-375D385E0ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6461599-6FA8-4621-88D9-375D385E0ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6461599-6FA8-4621-88D9-375D385E0ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6461599-6FA8-4621-88D9-375D385E0ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B95734-CB1A-4429-8CDA-D02442A55E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B95734-CB1A-4429-8CDA-D02442A55E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B95734-CB1A-4429-8CDA-D02442A55E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B95734-CB1A-4429-8CDA-D02442A55E1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
