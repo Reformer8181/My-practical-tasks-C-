@@ -143,21 +143,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return Keyword", "Return Keyword\Return Keyword.csproj", "{E23D5BA1-56F2-4853-AB65-BCD47AB0F01C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method overloading", "Method overloading\Method overloading.csproj", "{986AF715-E0DB-4A3A-824C-3E6383A707AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method overloading", "Method overloading\Method overloading.csproj", "{986AF715-E0DB-4A3A-824C-3E6383A707AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params keyword", "Params keyword\Params keyword.csproj", "{D6461599-6FA8-4621-88D9-375D385E0ABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Params keyword", "Params keyword\Params keyword.csproj", "{D6461599-6FA8-4621-88D9-375D385E0ABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception handling", "Exception handling\Exception handling.csproj", "{A8B95734-CB1A-4429-8CDA-D02442A55E1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception handling", "Exception handling\Exception handling.csproj", "{A8B95734-CB1A-4429-8CDA-D02442A55E1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional operator", "conditional operator\Conditional operator.csproj", "{33F7C23B-9F2A-4425-8C00-8A17AD6AE834}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional operator", "conditional operator\Conditional operator.csproj", "{33F7C23B-9F2A-4425-8C00-8A17AD6AE834}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Interpolation", "String Interpolation\String Interpolation.csproj", "{341F5CA5-1E82-4462-881A-A04CF8D17D35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Interpolation", "String Interpolation\String Interpolation.csproj", "{341F5CA5-1E82-4462-881A-A04CF8D17D35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays - Multidimensional arrays", "Arrays - Multidimensional arrays\Arrays - Multidimensional arrays.csproj", "{98E147AA-1C54-41A5-A6BC-CE1369C6EA2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays - Multidimensional arrays", "Arrays - Multidimensional arrays\Arrays - Multidimensional arrays.csproj", "{98E147AA-1C54-41A5-A6BC-CE1369C6EA2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{6CD659F1-7C56-4D39-A794-0E1305CD3A3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{6CD659F1-7C56-4D39-A794-0E1305CD3A3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects\Objects.csproj", "{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Objects", "Objects\Objects.csproj", "{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors 2", "Constructors 2\Constructors 2.csproj", "{2C4C4222-71FE-4D13-A91D-AFEBCC3B4BC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -473,6 +475,10 @@ Global
 		{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4C4222-71FE-4D13-A91D-AFEBCC3B4BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4C4222-71FE-4D13-A91D-AFEBCC3B4BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4C4222-71FE-4D13-A91D-AFEBCC3B4BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4C4222-71FE-4D13-A91D-AFEBCC3B4BC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
