@@ -157,6 +157,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays - Multidimensional a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{6CD659F1-7C56-4D39-A794-0E1305CD3A3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects\Objects.csproj", "{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -467,6 +469,10 @@ Global
 		{6CD659F1-7C56-4D39-A794-0E1305CD3A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CD659F1-7C56-4D39-A794-0E1305CD3A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CD659F1-7C56-4D39-A794-0E1305CD3A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
