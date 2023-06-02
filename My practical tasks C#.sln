@@ -173,6 +173,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Array of objects"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Objects As Arguments", "Classes - Objects As Arguments\Classes - Objects As Arguments.csproj", "{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Method Overriding", "Classes - Method Overriding\Classes - Method Overriding.csproj", "{1F755ADD-9881-4480-A9B8-454D3DA9D9A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -515,6 +517,10 @@ Global
 		{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F755ADD-9881-4480-A9B8-454D3DA9D9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F755ADD-9881-4480-A9B8-454D3DA9D9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F755ADD-9881-4480-A9B8-454D3DA9D9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F755ADD-9881-4480-A9B8-454D3DA9D9A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
