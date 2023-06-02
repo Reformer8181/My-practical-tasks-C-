@@ -171,6 +171,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Abstract classes"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Array of objects", "Classes - Array of objects\Classes - Array of objects.csproj", "{D2241E0D-9886-4807-BD97-768475276C44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Objects As Arguments", "Classes - Objects As Arguments\Classes - Objects As Arguments.csproj", "{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -509,6 +511,10 @@ Global
 		{D2241E0D-9886-4807-BD97-768475276C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2241E0D-9886-4807-BD97-768475276C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2241E0D-9886-4807-BD97-768475276C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC42C5E8-2C0E-41A5-A4DD-6B83CBD3DFEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
