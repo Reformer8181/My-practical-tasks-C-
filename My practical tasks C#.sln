@@ -159,13 +159,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Objects", "Objects\Objects.csproj", "{9BDFB39A-EEED-4016-93C8-BDF75BD20B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors 2", "Constructors 2\Constructors 2.csproj", "{2C4C4222-71FE-4D13-A91D-AFEBCC3B4BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors 2", "Constructors 2\Constructors 2.csproj", "{2C4C4222-71FE-4D13-A91D-AFEBCC3B4BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{2F99AAD4-F59E-470A-9BD8-5A9205AF6AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "Static\Static.csproj", "{2F99AAD4-F59E-470A-9BD8-5A9205AF6AB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors - Overloaded Constructors", "Constructors - Overloaded Constructors\Constructors - Overloaded Constructors.csproj", "{CD6A9D23-03C1-4B9F-A6A0-9C976AEB0B66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors - Overloaded Constructors", "Constructors - Overloaded Constructors\Constructors - Overloaded Constructors.csproj", "{CD6A9D23-03C1-4B9F-A6A0-9C976AEB0B66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Inheritance", "Classes - Inheritance\Classes - Inheritance.csproj", "{9E27123E-1A9D-4A3C-8968-19EA745316E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes - Inheritance", "Classes - Inheritance\Classes - Inheritance.csproj", "{9E27123E-1A9D-4A3C-8968-19EA745316E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes - Abstract classes", "Classes - Abstract classes\Classes - Abstract classes.csproj", "{754E3B4D-87F2-4BC5-9D55-44DEDDB29E5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -497,6 +499,10 @@ Global
 		{9E27123E-1A9D-4A3C-8968-19EA745316E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E27123E-1A9D-4A3C-8968-19EA745316E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E27123E-1A9D-4A3C-8968-19EA745316E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754E3B4D-87F2-4BC5-9D55-44DEDDB29E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754E3B4D-87F2-4BC5-9D55-44DEDDB29E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754E3B4D-87F2-4BC5-9D55-44DEDDB29E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754E3B4D-87F2-4BC5-9D55-44DEDDB29E5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
