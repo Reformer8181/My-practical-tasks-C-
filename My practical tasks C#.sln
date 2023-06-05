@@ -187,6 +187,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists - List of objects", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getters & Setters", "Getters & Setters\Getters & Setters.csproj", "{1151A39A-B890-4774-8958-7AC780B42A7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto-Implement properties", "Auto-Implement properties\Auto-Implement properties.csproj", "{657A3502-3CB9-4F94-AF18-1A3240B1D49E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -557,6 +559,10 @@ Global
 		{1151A39A-B890-4774-8958-7AC780B42A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1151A39A-B890-4774-8958-7AC780B42A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1151A39A-B890-4774-8958-7AC780B42A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657A3502-3CB9-4F94-AF18-1A3240B1D49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657A3502-3CB9-4F94-AF18-1A3240B1D49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657A3502-3CB9-4F94-AF18-1A3240B1D49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657A3502-3CB9-4F94-AF18-1A3240B1D49E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
